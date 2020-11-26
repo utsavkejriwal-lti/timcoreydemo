@@ -1,0 +1,6 @@
+D:\LTI -  855\unitTestingTimCorey\DemoLibrary\bin\Debug\DemoLibrary.dll
+D:\LTI -  855\unitTestingTimCorey\DemoLibrary\bin\Debug\DemoLibrary.pdb
+D:\LTI -  855\unitTestingTimCorey\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+D:\LTI -  855\unitTestingTimCorey\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\LTI -  855\unitTestingTimCorey\DemoLibrary\obj\Debug\DemoLibrary.dll
+D:\LTI -  855\unitTestingTimCorey\DemoLibrary\obj\Debug\DemoLibrary.pdb

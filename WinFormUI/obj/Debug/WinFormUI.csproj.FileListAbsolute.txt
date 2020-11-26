@@ -1,0 +1,14 @@
+D:\LTI -  855\unitTestingTimCorey\WinFormUI\bin\Debug\PersonText.txt
+D:\LTI -  855\unitTestingTimCorey\WinFormUI\bin\Debug\WinFormUI.exe.config
+D:\LTI -  855\unitTestingTimCorey\WinFormUI\bin\Debug\WinFormUI.exe
+D:\LTI -  855\unitTestingTimCorey\WinFormUI\bin\Debug\WinFormUI.pdb
+D:\LTI -  855\unitTestingTimCorey\WinFormUI\bin\Debug\DemoLibrary.dll
+D:\LTI -  855\unitTestingTimCorey\WinFormUI\bin\Debug\DemoLibrary.pdb
+D:\LTI -  855\unitTestingTimCorey\WinFormUI\obj\Debug\WinFormUI.csprojAssemblyReference.cache
+D:\LTI -  855\unitTestingTimCorey\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+D:\LTI -  855\unitTestingTimCorey\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+D:\LTI -  855\unitTestingTimCorey\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+D:\LTI -  855\unitTestingTimCorey\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+D:\LTI -  855\unitTestingTimCorey\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+D:\LTI -  855\unitTestingTimCorey\WinFormUI\obj\Debug\WinFormUI.exe
+D:\LTI -  855\unitTestingTimCorey\WinFormUI\obj\Debug\WinFormUI.pdb
