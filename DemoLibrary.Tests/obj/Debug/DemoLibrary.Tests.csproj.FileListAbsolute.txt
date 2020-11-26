@@ -7,7 +7,6 @@ D:\LTI -  855\unitTestingTimCorey\DemoLibrary.Tests\bin\Debug\xunit.assert.dll
 D:\LTI -  855\unitTestingTimCorey\DemoLibrary.Tests\bin\Debug\xunit.core.dll
 D:\LTI -  855\unitTestingTimCorey\DemoLibrary.Tests\bin\Debug\xunit.execution.desktop.dll
 D:\LTI -  855\unitTestingTimCorey\DemoLibrary.Tests\bin\Debug\DemoLibrary.pdb
-D:\LTI -  855\unitTestingTimCorey\DemoLibrary.Tests\bin\Debug\xunit.abstractions.xml
 D:\LTI -  855\unitTestingTimCorey\DemoLibrary.Tests\bin\Debug\xunit.assert.xml
 D:\LTI -  855\unitTestingTimCorey\DemoLibrary.Tests\bin\Debug\xunit.core.xml
 D:\LTI -  855\unitTestingTimCorey\DemoLibrary.Tests\bin\Debug\xunit.execution.desktop.xml
@@ -16,3 +15,6 @@ D:\LTI -  855\unitTestingTimCorey\DemoLibrary.Tests\obj\Debug\DemoLibrary.Tests.
 D:\LTI -  855\unitTestingTimCorey\DemoLibrary.Tests\obj\Debug\DemoLibrary.Tests.csproj.CopyComplete
 D:\LTI -  855\unitTestingTimCorey\DemoLibrary.Tests\obj\Debug\DemoLibrary.Tests.dll
 D:\LTI -  855\unitTestingTimCorey\DemoLibrary.Tests\obj\Debug\DemoLibrary.Tests.pdb
+D:\LTI -  855\unitTestingTimCorey\DemoLibrary.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\LTI -  855\unitTestingTimCorey\DemoLibrary.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+D:\LTI -  855\unitTestingTimCorey\DemoLibrary.Tests\bin\Debug\xunit.runner.utility.net452.dll
